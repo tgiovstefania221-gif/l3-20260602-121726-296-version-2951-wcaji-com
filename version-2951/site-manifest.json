@@ -1,0 +1,49 @@
+{
+  "site": "热门片库",
+  "title": "最新影片合集-热门片库持续更新-高清视频在线播放",
+  "movie_count": 2000,
+  "categories": [
+    {
+      "slug": "movies",
+      "name": "电影专区",
+      "count": 250
+    },
+    {
+      "slug": "series",
+      "name": "剧集专区",
+      "count": 251
+    },
+    {
+      "slug": "chinese",
+      "name": "华语片库",
+      "count": 250
+    },
+    {
+      "slug": "asia",
+      "name": "日韩精选",
+      "count": 248
+    },
+    {
+      "slug": "euro-american",
+      "name": "欧美精选",
+      "count": 251
+    },
+    {
+      "slug": "action-suspense",
+      "name": "动作悬疑",
+      "count": 250
+    },
+    {
+      "slug": "romance-drama",
+      "name": "爱情剧情",
+      "count": 251
+    },
+    {
+      "slug": "fantasy-comedy",
+      "name": "奇幻喜剧",
+      "count": 249
+    }
+  ],
+  "generated_at": "2026-05-26",
+  "cover_image_rule": "Root-level images 1.jpg through 150.jpg are referenced cyclically."
+}
